@@ -1,0 +1,1 @@
+The documentation including the results and the report are found under the Doc dir. The Outpur dir contains all the outputs of the traces.
